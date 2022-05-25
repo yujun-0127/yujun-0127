@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujun-0127&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujun-0127)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **yujun-0127/yujun-0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
